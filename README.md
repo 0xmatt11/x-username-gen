@@ -20,8 +20,8 @@ A collection of Python scripts for automating tasks on X (formerly Twitter) usin
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone [https://github.com/yourusername/twitter-bot-toolkit.git](https://github.com/yourusername/twitter-bot-toolkit.git)
-    cd twitter-bot-toolkit
+    git clone [https://github.com/0xmatt11/x-username-gen](https://github.com/yourusername/0xmatt11/x-username-gen)
+    cd x-username-gen
     ```
 
 2.  **Install dependencies**:
