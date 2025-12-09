@@ -20,7 +20,7 @@ A collection of Python scripts for automating tasks on X (formerly Twitter) usin
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone [https://github.com/0xmatt11/x-username-gen](https://github.com/yourusername/0xmatt11/x-username-gen)
+    git clone [https://github.com/0xmatt11/x-username-gen](https://github.com/0xmatt11/x-username-gen)
     cd x-username-gen
     ```
 
